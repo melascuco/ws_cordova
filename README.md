@@ -1,2 +1,2 @@
 # ws_cordova
-Mobile development
+Mobile development using Apache Cordova
